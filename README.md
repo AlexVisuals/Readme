@@ -6,29 +6,29 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-card-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-card-light.svg" />
-  <img src="assets/profile-card-light.svg" width="100%" alt="Alex (@AlexVisuals) — Web Application Development Student | Front-end Developer · JavaScript · TypeScript · React · Barcelona, Catalonia, Spain · #OpenToWork" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/profile-card-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/profile-card-light.svg" />
+  <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/profile-card-light.svg" width="100%" alt="Alex (@AlexVisuals) — Web Application Development Student | Front-end Developer · JavaScript · TypeScript · React · Barcelona, Catalonia, Spain · #OpenToWork" />
 </picture>
 
 <p>
   <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg" />
-      <img src="assets/btn-linkedin-light.svg" height="40" alt="Connect on LinkedIn" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/btn-linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/btn-linkedin-light.svg" />
+      <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/btn-linkedin-light.svg" height="40" alt="Connect on LinkedIn" />
     </picture></a>
   <a href="https://www.youtube.com/@TU_CANAL_YOUTUBE">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-youtube-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="assets/btn-youtube-light.svg" />
-      <img src="assets/btn-youtube-light.svg" height="40" alt="YouTube" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/btn-youtube-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/btn-youtube-light.svg" />
+      <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/btn-youtube-light.svg" height="40" alt="YouTube" />
     </picture></a>
   <a href="https://x.com/TU_USUARIO_X">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-x-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="assets/btn-x-light.svg" />
-      <img src="assets/btn-x-light.svg" height="40" alt="Follow on X" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/btn-x-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/btn-x-light.svg" />
+      <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/btn-x-light.svg" height="40" alt="Follow on X" />
     </picture></a>
 </p>
 
@@ -62,7 +62,7 @@ My focus is **front-end development**: I enjoy turning ideas into clean, respons
 <table>
   <tr>
     <td width="72" align="center" valign="top">
-      <img src="assets/logo-education.svg" width="56" alt="Education" />
+      <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/logo-education.svg" width="56" alt="Education" />
     </td>
     <td valign="top">
       <b>Higher Technical Degree in Web Application Development (CFGS DAW)</b><br />
