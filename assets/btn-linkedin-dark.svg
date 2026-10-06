@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="143" height="40" viewBox="0 0 143 40" role="img" aria-label="Connect">
-  <title>Connect</title>
-  <rect x="1" y="1" width="141" height="38" rx="19.0" fill="#71B7FB"/>
-  <g transform="translate(22 11.0) scale(0.75)"><rect width="24" height="24" rx="3.5" fill="#0D1117"/><g fill="#71B7FB"><path d="M9.6 9.3h3v1.5c.5-.9 1.6-1.8 3.3-1.8 3.1 0 3.8 2 3.8 4.7v5.9h-3.1v-5.2c0-1.3 0-2.8-1.8-2.8s-2.1 1.4-2.1 2.7v5.3H9.6z"/><rect x="4.4" y="9.3" width="3.1" height="10.3"/><circle cx="6" cy="6.3" r="1.8"/></g></g>
-  <text x="84.8" y="25.6" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif" font-size="16" font-weight="600" fill="#0D1117">Connect</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="40" viewBox="0 0 148 40" role="img" aria-label="Conectar">
+  <title>Conectar</title>
+  <rect x="1" y="1" width="146" height="38" rx="19.0" fill="#71B7FB"/>
+  <g transform="translate(20 11.0) scale(0.75)"><rect width="24" height="24" rx="3.5" fill="#0D1117"/><g fill="#71B7FB"><path d="M9.6 9.3h3v1.5c.5-.9 1.6-1.8 3.3-1.8 3.1 0 3.8 2 3.8 4.7v5.9h-3.1v-5.2c0-1.3 0-2.8-1.8-2.8s-2.1 1.4-2.1 2.7v5.3H9.6z"/><rect x="4.4" y="9.3" width="3.1" height="10.3"/><circle cx="6" cy="6.3" r="1.8"/></g></g>
+  <text x="87.4" y="25.6" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif" font-size="16" font-weight="600" fill="#0D1117">Conectar</text>
 </svg>

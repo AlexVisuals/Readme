@@ -29,7 +29,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          NAME: Alex
+          NAME: Alejandro Poyatos
           UTC_OFFSET: 1
           THEME: github
           AUTO_PUSH: false
@@ -43,7 +43,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          NAME: Alex
+          NAME: Alejandro Poyatos
           UTC_OFFSET: 1
           THEME: github_dark
           AUTO_PUSH: false
