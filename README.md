@@ -1,37 +1,81 @@
 <!--
-  TODO: sustituye estos marcadores por tus usuarios reales antes de publicar:
+  TODO: sustituye estos marcadores por tus usuarios reales:
     - TU_USUARIO_LINKEDIN
     - TU_CANAL_YOUTUBE
     - TU_USUARIO_X
 -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Hi%2C%20I%27m%20Alex&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Web%20Developer%20%C2%B7%20DAW%20Student%20%C2%B7%20Barcelona&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Hi, I'm Alex — Web Developer · DAW Student · Barcelona" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-card-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-card-light.svg" />
+  <img src="assets/profile-card-light.svg" width="100%" alt="Alex (@AlexVisuals) — Web Application Development Student | Front-end Developer · JavaScript · TypeScript · React · Barcelona, Catalonia, Spain · #OpenToWork" />
+</picture>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Web+Application+Development+student;Front-end+%E2%80%94+JavaScript+%C2%B7+TypeScript+%C2%B7+React;Based+in+Barcelona%2C+Spain;Always+learning%2C+always+building" alt="Web Application Development student · Front-end — JavaScript, TypeScript, React · Based in Barcelona, Spain" />
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@TU_CANAL_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://x.com/TU_USUARIO_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg" />
+      <img src="assets/btn-linkedin-light.svg" height="40" alt="Connect on LinkedIn" />
+    </picture></a>
+  <a href="https://www.youtube.com/@TU_CANAL_YOUTUBE">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-youtube-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/btn-youtube-light.svg" />
+      <img src="assets/btn-youtube-light.svg" height="40" alt="YouTube" />
+    </picture></a>
+  <a href="https://x.com/TU_USUARIO_X">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-x-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/btn-x-light.svg" />
+      <img src="assets/btn-x-light.svg" height="40" alt="Follow on X" />
+    </picture></a>
 </p>
 
----
+<table>
+  <tr>
+    <td>
+      🟢 <b>Open to work</b><br />
+      Internships · Front-end projects · Collaborations<br />
+      <sub>Barcelona, Spain</sub>
+    </td>
+  </tr>
+</table>
 
-## 👋 About me
+## About
 
-I'm **Alex**, a Barcelona-based web developer in training, currently studying a **Higher Technical Degree in Web Application Development (DAW)**. I enjoy turning ideas into clean, modern interfaces with JavaScript, TypeScript and React, and I'm steadily growing my skills towards full-stack development.
+I'm Alex, a web developer in training based in Barcelona. I'm currently studying a **Higher Technical Degree in Web Application Development (CFGS DAW)**, where I'm building a solid foundation across the whole web stack — from programming and databases to client-side and server-side development.
 
-- 🎓 Studying **Web Application Development (DAW)**
-- 💻 Focused on **front-end development** with **JavaScript, TypeScript and React**
-- 🌱 Currently expanding into **back-end & full-stack** development
-- 📍 Based in **Barcelona, Spain**
-- 🤝 Open to **internships, collaborations and new challenges**
+My focus is **front-end development**: I enjoy turning ideas into clean, responsive and user-friendly interfaces with **JavaScript, TypeScript and React**. I'm now expanding into back-end and full-stack development, and I'm always looking for real-world projects to learn from and contribute to.
 
-## 🛠️ Tech stack
+<table>
+  <tr>
+    <td>
+      💎 <b>Top skills</b><br />
+      JavaScript • TypeScript • React • HTML5 • CSS3
+    </td>
+  </tr>
+</table>
+
+## Education
+
+<table>
+  <tr>
+    <td width="72" align="center" valign="top">
+      <img src="assets/logo-education.svg" width="56" alt="Education" />
+    </td>
+    <td valign="top">
+      <b>Higher Technical Degree in Web Application Development (CFGS DAW)</b><br />
+      <sub>Vocational Training · In progress</sub>
+      <br /><br />
+      Two-year official programme covering the full lifecycle of a web application: programming fundamentals, databases, client-side and server-side development, interface design and deployment.
+      <br /><br />
+      <b>Key modules:</b> Programming · Databases · Markup Languages · Development Environments · Client-side Web Development · Server-side Web Development · Web Interface Design · Web Application Deployment
+    </td>
+  </tr>
+</table>
+
+## Skills
 
 <table>
   <tr>
@@ -48,13 +92,13 @@ I'm **Alex**, a Barcelona-based web developer in training, currently studying a 
   </tr>
 </table>
 
-## 📊 GitHub activity
+## Activity
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AlexVisuals&locale=en&mode=daily&border_radius=8&background=0D1117&border=30363D&stroke=30363D&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AlexVisuals&locale=en&mode=daily&border_radius=8&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&currStreakNum=1F2328&sideNums=1F2328&sideLabels=59636E&dates=59636E" />
-    <img src="https://streak-stats.demolab.com?user=AlexVisuals&locale=en&mode=daily&border_radius=8&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&currStreakNum=1F2328&sideNums=1F2328&sideLabels=59636E&dates=59636E" alt="GitHub contribution streak for AlexVisuals" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AlexVisuals&locale=en&mode=daily&border_radius=8&background=151B23&border=30363D&stroke=30363D&ring=8B9BFF&fire=8B9BFF&currStreakLabel=8B9BFF&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=9198A1&dates=9198A1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AlexVisuals&locale=en&mode=daily&border_radius=8&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=3B4CCA&fire=3B4CCA&currStreakLabel=3B4CCA&currStreakNum=1F2328&sideNums=1F2328&sideLabels=59636E&dates=59636E" />
+    <img src="https://streak-stats.demolab.com?user=AlexVisuals&locale=en&mode=daily&border_radius=8&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=3B4CCA&fire=3B4CCA&currStreakLabel=3B4CCA&currStreakNum=1F2328&sideNums=1F2328&sideLabels=59636E&dates=59636E" alt="GitHub contribution streak for AlexVisuals" />
   </picture>
 </div>
 
@@ -62,18 +106,16 @@ I'm **Alex**, a Barcelona-based web developer in training, currently studying a 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlexVisuals&bg_color=0D1117&color=E6EDF3&title_color=E6EDF3&line=3B82F6&point=E6EDF3&area=true&area_color=3B82F6&hide_border=true&radius=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlexVisuals&bg_color=FFFFFF&color=1F2328&title_color=1F2328&line=2563EB&point=1F2328&area=true&area_color=2563EB&hide_border=true&radius=8" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexVisuals&bg_color=FFFFFF&color=1F2328&title_color=1F2328&line=2563EB&point=1F2328&area=true&area_color=2563EB&hide_border=true&radius=8" alt="GitHub contribution activity graph for AlexVisuals" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlexVisuals&bg_color=151B23&color=E6EDF3&title_color=E6EDF3&line=8B9BFF&point=E6EDF3&area=true&area_color=8B9BFF&hide_border=true&radius=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlexVisuals&bg_color=FFFFFF&color=1F2328&title_color=1F2328&line=3B4CCA&point=1F2328&area=true&area_color=3B4CCA&hide_border=true&radius=8" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexVisuals&bg_color=FFFFFF&color=1F2328&title_color=1F2328&line=3B4CCA&point=1F2328&area=true&area_color=3B4CCA&hide_border=true&radius=8" alt="GitHub contribution activity graph for AlexVisuals" />
   </picture>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Thanks for stopping by — feel free to explore my repositories or reach out! ⭐</sub>
+  <sub>Thanks for stopping by — feel free to explore my repositories or connect with me! ⭐</sub>
   <br /><br />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AlexVisuals.AlexVisuals&left_text=Profile%20views" alt="Profile views" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" width="100%" alt="" />
