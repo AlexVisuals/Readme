@@ -1,9 +1,18 @@
 <!--
   TODO: sustituye estos marcadores por tus usuarios reales:
     - TU_USUARIO_LINKEDIN
-    - TU_CANAL_YOUTUBE
     - TU_USUARIO_X
 -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A36,100:3B4CCA&height=200&section=header&text=Hi%2C%20I%27m%20Alex&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Web%20Developer%20%C2%B7%20DAW%20Student%20%C2%B7%20Barcelona&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Hi, I'm Alex — Web Developer · DAW Student · Barcelona" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=5B6CF0&center=true&vCenter=true&width=600&lines=Web+Application+Development+student;Front-end+%E2%80%94+JavaScript+%C2%B7+TypeScript+%C2%B7+React;Based+in+Barcelona%2C+Spain;Open+to+internships+%26+collaborations" alt="Web Application Development student · Front-end — JavaScript, TypeScript, React · Based in Barcelona, Spain · Open to internships & collaborations" />
+</div>
+
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/profile-card-dark.svg" />
@@ -17,12 +26,6 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/btn-linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/btn-linkedin-light.svg" />
       <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/btn-linkedin-light.svg" height="40" alt="Connect on LinkedIn" />
-    </picture></a>
-  <a href="https://www.youtube.com/@TU_CANAL_YOUTUBE">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/btn-youtube-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/btn-youtube-light.svg" />
-      <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/btn-youtube-light.svg" height="40" alt="YouTube" />
     </picture></a>
   <a href="https://x.com/TU_USUARIO_X">
     <picture>
@@ -75,30 +78,41 @@ My focus is **front-end development**: I enjoy turning ideas into clean, respons
   </tr>
 </table>
 
-## Skills
+## Tech Stack
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="JavaScript, TypeScript, HTML5, CSS3" /></td>
-  </tr>
-  <tr>
-    <td><b>Frameworks &amp; libraries</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react" alt="React" /></td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" /></td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/stack-card-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/stack-card-light.svg" />
+  <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/stack-card-light.svg" width="100%" alt="Tech stack — Front-end: JavaScript, TypeScript, React, HTML5, CSS. Back-end & data (learning): Node.js, PHP, Java, MySQL. Tools: Git, GitHub, VS Code, npm." />
+</picture>
 
-## Activity
+## GitHub Analytics
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AlexVisuals&locale=en&mode=daily&border_radius=8&background=151B23&border=30363D&stroke=30363D&ring=8B9BFF&fire=8B9BFF&currStreakLabel=8B9BFF&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=9198A1&dates=9198A1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AlexVisuals&locale=en&mode=daily&border_radius=8&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=3B4CCA&fire=3B4CCA&currStreakLabel=3B4CCA&currStreakNum=1F2328&sideNums=1F2328&sideLabels=59636E&dates=59636E" />
-    <img src="https://streak-stats.demolab.com?user=AlexVisuals&locale=en&mode=daily&border_radius=8&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=3B4CCA&fire=3B4CCA&currStreakLabel=3B4CCA&currStreakNum=1F2328&sideNums=1F2328&sideLabels=59636E&dates=59636E" alt="GitHub contribution streak for AlexVisuals" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/profile-summary-card-output/github/0-profile-details.svg" />
+    <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/main/profile-summary-card-output/github/0-profile-details.svg" width="100%" alt="GitHub profile details and contributions over the last year" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/profile-summary-card-output/github_dark/3-stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/profile-summary-card-output/github/3-stats.svg" />
+    <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/main/profile-summary-card-output/github/3-stats.svg" width="49%" alt="GitHub stats: stars, commits, pull requests, issues and contributions" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/profile-summary-card-output/github/4-productive-time.svg" />
+    <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/main/profile-summary-card-output/github/4-productive-time.svg" width="49%" alt="Commits by hour of the day" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/profile-summary-card-output/github/1-repos-per-language.svg" />
+    <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/main/profile-summary-card-output/github/1-repos-per-language.svg" width="49%" alt="Top languages by repository" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/profile-summary-card-output/github/2-most-commit-language.svg" />
+    <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/main/profile-summary-card-output/github/2-most-commit-language.svg" width="49%" alt="Top languages by commit" />
   </picture>
 </div>
 
@@ -106,16 +120,26 @@ My focus is **front-end development**: I enjoy turning ideas into clean, respons
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlexVisuals&bg_color=151B23&color=E6EDF3&title_color=E6EDF3&line=8B9BFF&point=E6EDF3&area=true&area_color=8B9BFF&hide_border=true&radius=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlexVisuals&bg_color=FFFFFF&color=1F2328&title_color=1F2328&line=3B4CCA&point=1F2328&area=true&area_color=3B4CCA&hide_border=true&radius=8" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexVisuals&bg_color=FFFFFF&color=1F2328&title_color=1F2328&line=3B4CCA&point=1F2328&area=true&area_color=3B4CCA&hide_border=true&radius=8" alt="GitHub contribution activity graph for AlexVisuals" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AlexVisuals&locale=en&mode=daily&border_radius=6&background=0D1117&border=30363D&stroke=30363D&ring=8B9BFF&fire=8B9BFF&currStreakLabel=8B9BFF&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=9198A1&dates=9198A1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AlexVisuals&locale=en&mode=daily&border_radius=6&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=3B4CCA&fire=3B4CCA&currStreakLabel=3B4CCA&currStreakNum=1F2328&sideNums=1F2328&sideLabels=59636E&dates=59636E" />
+    <img src="https://streak-stats.demolab.com?user=AlexVisuals&locale=en&mode=daily&border_radius=6&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=3B4CCA&fire=3B4CCA&currStreakLabel=3B4CCA&currStreakNum=1F2328&sideNums=1F2328&sideLabels=59636E&dates=59636E" width="100%" alt="GitHub contribution streak for AlexVisuals" />
   </picture>
 </div>
 
----
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/output/github-snake.svg" width="100%" alt="Snake animation eating the GitHub contribution graph" />
+</picture>
+
+<br />
 
 <div align="center">
   <sub>Thanks for stopping by — feel free to explore my repositories or connect with me! ⭐</sub>
   <br /><br />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AlexVisuals.AlexVisuals&left_text=Profile%20views" alt="Profile views" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B4CCA,100:0A1A36&height=110&section=footer" width="100%" alt="" />
