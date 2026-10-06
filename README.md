@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/header-dark.webp" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/header-light.webp" />
-  <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/header-light.webp" width="100%" alt="Alejandro Poyatos Martín — Desarrollador Web Freelance | Diseño y Desarrollo Web | Barcelona. Estudiante del Grado en Multimedia en la Universitat Oberta de Catalunya. #OpenToWork" />
+  <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/header-light.webp" width="100%" alt="Alejandro Poyatos Martín — Desarrollador Web Freelance | Diseño y Desarrollo Web | Barcelona. Estudiante del Grado en Multimedia en la Universitat Oberta de Catalunya." />
 </picture>
 
 <p>
@@ -30,16 +30,6 @@
       <img src="https://raw.githubusercontent.com/AlexVisuals/Readme/main/assets/btn-cv-light.svg" height="40" alt="Descargar CV" />
     </picture></a>
 </p>
-
-<table>
-  <tr>
-    <td>
-      🟢 <b>Abierto a trabajar</b><br />
-      Proyectos freelance de diseño y desarrollo web · Mi próximo equipo como desarrollador web<br />
-      <sub>Barcelona, España</sub>
-    </td>
-  </tr>
-</table>
 
 ## Acerca de
 
